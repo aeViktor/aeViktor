@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 I am Joseph Victor Lobrin, but you can call me Victor!
+🌱 I’m currently learning about electronics engineering formally in the University of the Philippines.
+🔭 I’m currently working on building my skills in programming heading towards data science and AI.
+📫 You can reach me via my LinkedIn account: https://www.linkedin.com/in/josephvictorlobrin
+⚡ Fun fact: I like reading book series, comics, light and long novels, mangas, manhwas, and manhuas!
+
 <!--
 **aeViktor/aeViktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
